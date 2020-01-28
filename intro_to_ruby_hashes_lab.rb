@@ -3,7 +3,7 @@ def new_hash
 end
 
 def actor
-  epic_tragedy = {
+  actor = {
   :montague => "Dwayne The Rock Johnson"
 }
 end
