@@ -3,7 +3,9 @@ def new_hash
 end
 
 def actor
-  
+  epic_tragedy = {
+  :montague => {} 
+}
 end
 
 def monopoly
