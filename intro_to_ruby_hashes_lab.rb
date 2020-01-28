@@ -4,7 +4,7 @@ end
 
 def actor
   epic_tragedy = {
-  :montague => {} 
+  :montague => "Dwayne The Rock Johnson"
 }
 end
 
